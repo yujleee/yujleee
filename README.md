@@ -1,7 +1,6 @@
 <div align=center>
 
 ### Yujeong Lee 
-Will be frontend developer! 🐥
 
 <p>
   <a href="https://github.com/yujleee"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujleee&count_bg=%233B3B3B&title_bg=%235798FF&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false"/></a>
