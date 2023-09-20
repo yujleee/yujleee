@@ -4,8 +4,6 @@
   <a href="mailto:yujlee242@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="메일 보내기"/></a>
   <a href="https://i-ten.tistory.com/"><img height="20px" src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=%7Bdefault%7D" alt="Tistory&#39;s Badge"></a>
 
-* 💻 I'm Yujeong, a front-end developer.
-* 👀 Interested in UI/UX.
 </p>
 
 
